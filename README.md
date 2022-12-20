@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Mirai
+- 👋 Greetings, I’m DP AGG Lord Mirai
 - 👀 I’m interested in programming and games
-- 🌱 I’m currently learning PHP and Python
-- 📫 How to reach me: discord
+- 🌱 I’m currently learning C# and Java EE
+- 📫 How to reach me: discord @ Lord Mirai (未来)#0039
 
-I love you.
+May we speak soon.
